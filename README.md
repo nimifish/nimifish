@@ -1,16 +1,16 @@
-## Hi there 👋
+Hey 👋, I'm Ethan Lin! I'm a Software Engineering student at the University of Waterloo.
 
-<!--
-**nimifish/nimifish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building things, learning new technologies, and tackling interesting problems. My repositories feature a mix of personal projects, experiments, and things I've built along the way.
 
-Here are some ideas to get you started:
+Outside of software, I enjoy:
+- 🧩 Puzzle hunts and escape rooms
+- 🧗 Bouldering
+- 🎹 Playing the piano
+- 🌍 Watching travel shows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some projects I've done are: 
+[VEX Robotics Push Back](https://github.com/nimifish/VEX-Robotics-Push-Back): A C++ robotics control system featuring autonomous navigation, PID motion control, and odometry. 
+[PosturAI](https://github.com/nimifish/Posturai): An AI-powered posture monitoring application using computer vision to provide real-time posture feedback, break reminders, and session statistics.
+[JobAI](https://github.com/nimifish/JobAI): An AI-powered career assistant helping teenagers find jobs, generate résumés, and prepare for interviews through a unified chat interface.
+
+Always looking for something interesting to learn, build, or try!
